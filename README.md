@@ -17,9 +17,9 @@ Two annotation features that support optical character recognition (OCR):
  
  * Tfinder App!! UI design in few pictures:
  <p float="left">
-  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/1_Home%20screen.jpg' width = '325' height = '600' />
-  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/2_Sensors.jpg' width = '325' height = '600'/>
-  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/3_Text%20Recognition.jpg' width = '325' height = '600'/>
+  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/1_Home%20screen.jpg' width = '320' height = '600' />
+  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/2_Sensors.jpg' width = '320' height = '600'/>
+  <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/3_Text%20Recognition.jpg' width = '320' height = '600'/>
 </p>
  
  
