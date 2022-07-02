@@ -16,11 +16,12 @@ Two annotation features that support optical character recognition (OCR):
  #### I have developed the UI from scratch, iterating with different color combinations, button shapes and, font styles. Below are a few screenshots from the app, I haven't included pictures of live measurements from mobile sensors; you can view them in the demo video.
  
  * Tfinder App!! UI design in few pictures:
+ <div align = 'center'>
  <p float="left">
   <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/1_Home%20screen.jpg' width = '320' height = '600' />
   <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/2_Sensors.jpg' width = '320' height = '600'/>
   <img src ='https://github.com/nkrgit/Android-App-for-Text-Recognition/blob/main/3_Text%20Recognition.jpg' width = '320' height = '600'/>
-</p>
+</p> </div>
  
  
  
